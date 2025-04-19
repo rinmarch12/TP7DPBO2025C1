@@ -37,3 +37,24 @@ Alur Program
 - Pada halaman produk, user dapat memfilter produk berdasarkan kategori menggunakan dropdown
 - Hasil pencarian atau filter ditampilkan dalam bentuk tabel
 - User dapat menghapus filter untuk kembali melihat semua data
+
+---
+Dokumentasi
+---
+1. Beranda
+---
+![image](https://github.com/user-attachments/assets/34621192-e4cd-40a9-bb70-09b77173bd5b)
+---
+2. Produk
+---
+![image](https://github.com/user-attachments/assets/e0364254-609e-4b9d-bb95-3d8586325dc1)
+---
+4. Kategori
+---
+![image](https://github.com/user-attachments/assets/ee4a261f-934f-488a-814b-2a6c65905008)
+---
+6. Supplier
+---
+![image](https://github.com/user-attachments/assets/60f85416-671f-4dac-bd29-03c9a32305a3)
+
+
